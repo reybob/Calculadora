@@ -15,8 +15,8 @@
             android:ellipsize="start"
             android:gravity="end"
             android:singleLine="true"
-            android:textColor="@color/numberButton"
-            android:textSize="40sp"/>
+            android:textColor="@android:color/background_light"
+            android:textSize="50sp"/>
 
     <TextView
             android:id="@+id/tvResult"
@@ -25,8 +25,8 @@
             android:ellipsize="end"
             android:gravity="end"
             android:singleLine="true"
-            android:textColor="@color/numberButton"
-            android:textSize="30sp"/>
+            android:textColor="@android:color/background_light"
+            android:textSize="60sp"/>
 
     <LinearLayout
             android:layout_width="match_parent"
